@@ -27,4 +27,4 @@ The initial pattern constitutes the seed of the system. The first generation is 
                                                                                         
 ## To Execute
 
-Just paste this code into 'sketch.js' file on https://editor.p5js.org/ 
+Just paste this code into 'sketch.js' file on https://editor.p5js.org/ and press "Run".
